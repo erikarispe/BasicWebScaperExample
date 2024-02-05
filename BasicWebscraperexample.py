@@ -26,3 +26,14 @@ for job_element in job_elements:
     print("Company_Name: ", company_element.text.strip())
     print("Location: ", location_element.text.strip())
     print()
+
+
+#THE RESULTS WILL OUTPUT LIKE THIS BELOW:
+
+Job_Title:  Physiological scientist
+Company_Name:  Kramer-Klein
+Location:  South Christopher, AE
+
+Job_Title:  Textile designer
+Company_Name:  Meyers-Johnson
+Location:  Port Jonathan, AE
